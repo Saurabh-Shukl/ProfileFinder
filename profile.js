@@ -1,8 +1,5 @@
 import React from "react";
 
-// class Weather extends React.Component{
-
-
 const Profile=(props)=>(
 
         <div className="profile__info"> 
